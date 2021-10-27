@@ -1,9 +1,3 @@
-# Harjutamine
+# Ajalugu Githubist
 
-Git on tasuta ja avatud lähtekoodiga hajus versioonihaldussüsteem, mis on loodud nii väikeste kui suurte projektide haldamiseks.
-
-##Github
-
-**GitHub** on veebimajutusplatvorm versioonihalduseks ja ühistööks.
-Loob võimalused töötada projektiga sõltumata asukohast.
-**GitHub Education** võimaldab taotleda õpilastel arendaja paketti, mis sisaldab GitHubi partnerite pakkumisi ja eeliseid.
+GitHubi teenuse arendasid välja Chris Wanstrath, P. J. Hyett, Tom Preston-Werner ja Scott Chacon, kasutades Ruby on Rails, ning see sai alguse 2008. aasta veebruaris. Ettevõte GitHub Inc on eksisteerinud alates 2007. aastast ja asub San Franciscos.
