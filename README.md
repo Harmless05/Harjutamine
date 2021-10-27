@@ -4,6 +4,6 @@ Git on tasuta ja avatud lähtekoodiga hajus versioonihaldussüsteem, mis on lood
 
 ##Github
 
-**GitHub** on veebimajutusplatvorm versioonihalduseks ja ühistööks. 
+**GitHub** on veebimajutusplatvorm versioonihalduseks ja ühistööks.
 Loob võimalused töötada projektiga sõltumata asukohast.
 **GitHub Education** võimaldab taotleda õpilastel arendaja paketti, mis sisaldab GitHubi partnerite pakkumisi ja eeliseid.
