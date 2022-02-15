@@ -1,1 +1,41 @@
-Welcome to Reaper :D
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟮.𝟬.𝟭 - 𝟭𝟬.𝟯𝟭.𝟮𝟬𝟮𝟭
+  • Added tooltip to IP to Address and to Public and Local IP
+  • Bugs fixed
+  • Code cleanup
+  • Misc updates
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟮.𝟬.𝟬 - 𝟭𝟬.𝟭𝟬.𝟮𝟬𝟮𝟭
+  • Added a pop-up when opening the Public and Local IP submenu
+  • Fixed fonts being weird when downloading the program (H2XC)
+  • Fixed the changelog for the second time. Some text was out of bounds
+  • Fixed the desktop shortcut not having an icon
+  • Fixed program files not going to a folder on the first setup
+  • Moved from version 1.0... to version 2.0
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬.𝟱 - 𝟬𝟳.𝟬𝟰.𝟮𝟬𝟮𝟭
+  • Made programs corners smaller
+  • Added scrollbar to Changelog
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬.𝟰 - 𝟬𝟯.𝟭𝟬.𝟮𝟬𝟮𝟭
+  • Added a working "See Public IP info" this displays your Public IP in a Textbox
+  (Use at your own risk this will show your location)
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬.𝟯 - 𝟬𝟯.𝟬𝟯.𝟮𝟬𝟮𝟭
+ • Added your PC's Local IP
+ • Fixed a problem with the changelog not showing up
+ • Other minor fixes
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬.𝟮 - 𝟬𝟵.𝟮𝟬.𝟮𝟬𝟮𝟬
+ • Added Light Mode to Settings submenu (WIP)
+ • Added Help and Settings submenu it not just a button anymore
+ Note: still in WIP not much in there right now
+ • Resized the title bar, title bar icons and logo
+ • Fixed the program's icon not being the best quality
+ • Other minor fixes to the program
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬.𝟭 - 𝟬𝟵.𝟬𝟵.𝟮𝟬𝟮𝟬
+ • Added Map in IP to address
+ • Added Changelog submenu
+
+ 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝟭.𝟬 - 𝟬𝟴.𝟮𝟮.𝟮𝟬𝟮𝟬
+ • Release of H2XC
