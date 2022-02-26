@@ -1,2 +1,2 @@
-◦ Latest version 0.4.4
+0.4.4 - 23.03.2022 (DD.MM.YYYY)
  - Features unknown
