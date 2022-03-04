@@ -28,5 +28,5 @@ Added:
 Removed:
  - Animations and Scenarios
  - Custom clothes Editor
- - Cayo Ready Preps (Need to Fix coming in next Update)
- - Weapon Assistant (Need to Fix coming in next Update)
+ - Cayo Ready Preps (**Need to Fix coming in next Update**)
+ - Weapon Assistant (**Need to Fix coming in next Update*)
