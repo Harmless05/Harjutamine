@@ -1,5 +1,5 @@
-> 0.3.4 - 27.01.2022
-Added:
+> 𝟬.𝟯.𝟰 - 27.01.2022
+Added: 
  - All Basic options [Self]
  - Get All Weapons/Mk2/Throwables [Weapons]
  - Customs Weapons [Weapons]
@@ -8,7 +8,7 @@ Added:
  - Spoofing Username/R*ID/IP [Spoofing] [IP Might Dsync Your lobby as Usual]
  - LSC [Vehicles]
  - Mors Mutal insurance [Mobile]
- - Load Personal Vehicles (Inspired by Stand) [Mobile]
+ - Load Personal Vehicles (𝗜𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗯𝘆 𝗦𝘁𝗮𝗻𝗱) [Mobile]
  - OTR [Mobile]
  - Protections Reports/Kicks/crash [Protections]
  - Freemode Recovery (gives an attempt to recover after incoming Kicks/Crashes) [Protection -> Hooks]
@@ -17,7 +17,7 @@ Added:
  - Trolling Options [Toxic]
  - Vehicle Manipulation [Toxic]
  - Better Spectating [Player Info]
- - Fly Vehicle (Inspired by Impulse's Sport mode ) [Vehicle]
+ - Fly Vehicle (𝗜𝗻𝘀𝗽𝗶𝗿𝗲𝗱 𝗯𝘆 𝗜𝗺𝗽𝘂𝗹𝘀𝗲'𝘀 𝗦𝗽𝗼𝗿𝘁 𝗺𝗼𝗱𝗲) [Vehicle]
  - Vehicle Handling [Vehicle]
  - Rgb Vehicle [Vehicle]
  - Instant Break [Vehicle]
@@ -28,5 +28,5 @@ Added:
 Removed:
  - Animations and Scenarios
  - Custom clothes Editor
- - Cayo Ready Preps (Need to Fix coming in next Update)
- - Weapon Assistant (Need to Fix coming in next Update)
+ - Cayo Ready Preps (𝗡𝗲𝗲𝗱 𝘁𝗼 𝗳𝗶𝘅 𝗰𝗼𝗺𝗶𝗻𝗴 𝗶𝗻 𝗻𝗲𝘅𝘁 𝘂𝗽𝗱𝗮𝘁𝗲)
+ - Weapon Assistant (𝗡𝗲𝗲𝗱 𝘁𝗼 𝗳𝗶𝘅 𝗰𝗼𝗺𝗶𝗻𝗴 𝗶𝗻 𝗻𝗲𝘅𝘁 𝘂𝗽𝗱𝗮𝘁𝗲)
