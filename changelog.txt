@@ -1,2 +1,33 @@
-0.4.4 - 23.03.2022 (DD.MM.YYYY)
- - Features unknown
+0.3.4 - 27.01.2022
+
+Added:
+-> All Basic options [Self]
+-> Get All Weapons/Mk2/Throwables [Weapons]
+-> Customs Weapons [Weapons]
+-> Heist Editor [Recovery]
+-> Heist Cut Editor [Recovery]
+-> Spoofing Username/R*ID/IP [Spoofing] [IP Might Dsync Your lobby as Usual]
+-> LSC [Vehicles]
+-> Mors Mutal insurance [Mobile]
+-> Load Personal Vehicles (Inspired by Stand) [Mobile]
+-> OTR [Mobile]
+-> Protections Reports/Kicks/crash [Protections]
+-> Freemode Recovery (gives an attempt to recover after incoming Kicks/Crashes) [Protection -> Hooks ]
+-> Kicks [Toxic] 
+-> Crash [Toxic]
+-> Trolling Options [Toxic]
+-> Vehicle Manipulation [Toxic] 
+-> Better Spectating [Player Info]
+-> Fly Vehicle (Inspired by Impulse's Sport mode ) [Vehicle]
+-> Vehicle Handling [Vehicle]
+-> Rgb Vehicle [Vehicle]
+-> Instant Break [Vehicle]
+-> Added Session changer [Top bar]
+-> Added Dev Tools , If u got custom hashes for kicks and Crashes u can use dev tools to send it [FOR DEV]
+-> Better Logging System with backup Logs (Holy Shit it was a pain to fix that shit) [Logging -> Hooks]
+
+Removed:
+-> Animations and Scenarios
+-> Custom clothes Editor
+-> Cayo Ready Preps (Need to Fix coming in next Update)
+-> Weapon Assistant (Need to Fix coming in next Update)
